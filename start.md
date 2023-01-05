@@ -1,22 +1,16 @@
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+[Forelesningsplan](forelesningsplan.html){:target="blank"} inneholder informasjon om dato, tema, samt ressurser/oppgaver til hver forelesning og mappeoppgave. Husk å følg med på [timeplanen](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no for oppdtaert informasjon om rom og tidspunkt, og merk at disse kan endres. 
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
-
-## Kursplan
-
-Se [forelesningsplan](forelesningsplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
-
-**NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
+**Merknad per 6. januar 2023:** Informasjon om seminarene kommer så fort disse er avtalt med seminarlederne. 
 
 ## Kursbeskrivelse
-Se [emnebeskrivelsen](https://uit.no/utdanning/emner/emne/743171/sok-1016) for detaljert informasjon. 
+Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsettes gjennom en mappeevaluering. Mappen vil bestå av to mappeoppgaver og en prosjektoppgave, vektet henholdsvis 25% og 50%. Gjennomføringen vil være tredelt.
+
+1. Tolv forelesninger, som kombinerer presentasjon av stoff med oppgaver.
+2. Om lag 12 seminarer, hvor dere kan øve på det teoretiske innholdet. Disse er felles med SOK-1010.
+3. Mappeoppgaver.
 
 ## Faglærerinfo
 
