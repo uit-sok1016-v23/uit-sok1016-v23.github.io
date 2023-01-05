@@ -14,8 +14,8 @@ S = seminar
 |2. mars      |F5| Kapittel 6: Konjunkturer og økonomisk aktivitet| ESH ||
 |3. mars      |F6| Kapittel 7 og 8: Arbeidsmarked, lønnsdannelse, lønnsvekst og arbeidsledighet | ESH ||
 |23. mars     |F7| Kapittel 9 og 10: Rente, pengepolitikk, og finanskriser | ESH ||
-|24. mars     |F8||Kapittel 11: Penger og inflasjon ||
+|24. mars     |F8|Kapittel 11: Penger og inflasjon |ESH ||
 |13. april    |F9| Kapittel 12: Finanspolitikk | ESH||
 |14. april    |F10| Kapittel 14: Valuta og valutamarked | ESH || 
-|4. mai       |F11| | Kapittel 16: Økonomisk aktivitet i en åpen økonomi  ||
-|5. mai       |F12| | Oppsumering ||
+|4. mai       |F11|Kapittel 16: Økonomisk aktivitet i en åpen økonomi  | ESH ||
+|5. mai       |F12|Oppsumering |ESH ||
