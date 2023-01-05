@@ -1,7 +1,4 @@
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
-
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
@@ -9,46 +6,33 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 - [Forelesningsplan](forelesningsplan.html){:target="blank"}
 - [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
+## Kursplan
 
-## Kursbeskrivelse 
+Se [forelesningsplan](forelesningsplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
 
+**NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
 
-Kurset består av ulike interessante tema  
+## Kursbeskrivelse
+Se [emnebeskrivelsen](https://uit.no/utdanning/emner/emne/743171/sok-1016) for detaljert informasjon. 
 
+## Faglærerinfo
 
-## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+Faglærer er Even S. Hvinden. 
 
+- E-post: [even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
+- Jeg vil få nytt kontor, og vil vite hvilket i løpet av januar.
+- Telefon: 93043836
 
+## Pensum
+
+Pensum er tilgjengelig på [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists). 
+
+**NB!** Søk på SOK-1010. 
 
 ## Administrative spørsmål
 
-For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
-
-
-## Pensum  
-
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
-
-
-## Kunngjøringer  
-
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
-
-
-## Innlevering og eksamen  
-
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
-
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Administrative spørsmål rettes til [hhcampus@hjelp.uit.no](mailto:hhcampus@hjelp.uit.no). 
 
