@@ -8,7 +8,7 @@ PO = prosjektoppgave
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|19. januar   |F1| Kapittel 1: Makroøkonomi   | ESH | [Innføring matematikk](/ressurser/heft.pdf)| 
+|19. januar   |F1| Kapittel 1: Makroøkonomi   | ESH | [Innføring matematikk](/ressurser/hefte.pdf)| 
 |20. august   |F2| Kapittel 2: Nasjonalregnskapet  | ESH ||
 |9. februar   |F3| Kapittel 3-4: Produksjon, tilbud, etterspørsel og konsum | ESH |   |
 |10. februar  |F4| Kapittel 5: Økonomisk aktivitet på kort sikt | ESH ||
