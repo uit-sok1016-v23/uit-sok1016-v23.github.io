@@ -10,7 +10,7 @@ Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsette
 
 1. Tolv forelesninger, som kombinerer presentasjon av stoff med oppgaver.
 2. Om lag 12 seminarer, hvor dere kan øve på det teoretiske innholdet. Disse er felles med SOK-1010.
-3. Mappeoppgaver.
+3. Mappeevaluering, to mappeoppgaver og en prosjektoppgave vektet henholdsvis 25% og 50%.
 
 ## Faglærerinfo
 
