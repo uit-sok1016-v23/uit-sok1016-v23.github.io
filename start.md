@@ -24,9 +24,11 @@ Faglærer er Even S. Hvinden.
 
 Pensum er tilgjengelig på [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists). 
 
-**NB!** Søk på SOK-1010. 
+**NB!** Søk på SOK-1010 Makroøkonomisk analyse. 
 
 ## Administrative spørsmål
 
 Administrative spørsmål rettes til [hhcampus@hjelp.uit.no](mailto:hhcampus@hjelp.uit.no). 
+
+
 
