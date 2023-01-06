@@ -1,7 +1,9 @@
 #  Kursplan SOK-1016 Vår 2023
 
 F = forelesning             
+
 M = mappeoppgave
+
 PO = prosjektoppgave
 
 
