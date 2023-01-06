@@ -1,3 +1,4 @@
+
 ## Kursplan  
 
 [Forelesningsplan](forelesningsplan.html){:target="blank"} inneholder informasjon om dato, tema, samt ressurser/oppgaver til hver forelesning og mappeoppgave. Husk å følg med på [timeplanen](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no for oppdatert informasjon om rom og tidspunkt, og merk at disse kan endres. 
