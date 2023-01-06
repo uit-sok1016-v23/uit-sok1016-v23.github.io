@@ -1,4 +1,3 @@
-{% include navbar_open.html %}
 #  Kursplan SOK-1016 Vår 2023
 
 F = forelesning             
