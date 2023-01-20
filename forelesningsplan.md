@@ -10,7 +10,7 @@ PO = prosjektoppgave
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Uke  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |19. januar   |F1| Kapittel 1: Makroøkonomi   | 3 | [Innføring matematikk](/ressurser/hefte.pdf), [lysbilder](/ressurser/F1_SOK1016_V23.pdf)| 
-|20. januar   |F2| Kapittel 2: Nasjonalregnskapet  | 3 ||
+|20. januar   |F2| Kapittel 2: Nasjonalregnskapet  | 3 | [Notater](/ressurser/F2_SOK1016_V23.pdf) |
 |9. februar   |F3| Kapittel 3-4: Produksjon, tilbud, etterspørsel og konsum | 6 |   |
 |10. februar  |F4| Kapittel 5: Økonomisk aktivitet på kort sikt | 6 ||
 |10. februar  |M1| Utdeling første mappeoppgave | 6 ||
