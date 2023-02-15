@@ -17,7 +17,7 @@ Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsette
 Faglærer er Even S. Hvinden. 
 
 - E-post: [even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
-- Jeg sitter på 02.303, gjestekontoret. 
+- Sitter på 02.303, gjestekontoret. 
 - Telefon: 93043836
 
 ## Pensum
