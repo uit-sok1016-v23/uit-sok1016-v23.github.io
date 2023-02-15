@@ -6,6 +6,7 @@ M = mappeoppgave
 
 PO = prosjektoppgave
 
+Fo = Eksternt foredrag
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Uke  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
@@ -19,6 +20,7 @@ PO = prosjektoppgave
 |3. mars      |F6| Kapittel 7 og 8: Arbeidsmarked, lønnsdannelse, lønnsvekst og arbeidsledighet | 9 ||
 |23. mars     |F7| Kapittel 9 og 10: Rente, pengepolitikk, og finanskriser | 12 ||
 |24. mars     |F8|Kapittel 11: Penger og inflasjon |12 ||
+|24. mars     |Fo| Foredrag ved sentralbanksjef Ida Wolden Bache | | 14:15 - 15:00 på Perspektivet|
 |24. mars  |M2| Utdeling andre mappeoppgave | 12 ||
 |13. april    |F9| Kapittel 12: Finanspolitikk | 15||
 |14. april    |F10| Kapittel 14: Valuta og valutamarked | 15 || 
