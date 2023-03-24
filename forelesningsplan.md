@@ -18,7 +18,7 @@ Fo = Eksternt foredrag
 |24. februar  |M1| **Frist** innlevering første mappeoppgave | 8 ||
 |2. mars      |F5| Kapittel 6: Konjunkturer og økonomisk aktivitet| 9 |[Notater F5](/ressurser/F5_SOK1016_V23.pdf)|
 |3. mars      |F6| Kapittel 7 og 8: Arbeidsmarked, lønnsdannelse, lønnsvekst og arbeidsledighet | 9 |[Notater F6](/ressurser/F6_SOK1016_V23.pdf)|
-|23. mars     |F7| Kapittel 9 og 10: Rente, pengepolitikk, og finanskriser | 12 |Notater F6](/ressurser/F7_SOK1016_V23.pdf)|
+|23. mars     |F7| Kapittel 9 og 10: Rente, pengepolitikk, og finanskriser | 12 |[Notater F7](/ressurser/F7_SOK1016_V23.pdf)|
 |24. mars     |F8|Kapittel 11: Penger og inflasjon |12 ||
 |24. mars     |Fo| Foredrag ved sentralbanksjef Ida Wolden Bache | | 14:15 - 15:00 på Perspektivet|
 |24. mars  |M2| Utdeling andre mappeoppgave | 12 |[Andre mappeoppgave](/ressurser/M2_SOK1016_V23.pdf)|
