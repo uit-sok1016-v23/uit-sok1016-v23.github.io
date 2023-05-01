@@ -25,8 +25,7 @@ Fo = Eksternt foredrag
 |13. april    |F9| Kapittel 12-13: Finanspolitikk, finansmarkedet | 15||
 |14. april    |F10| Kapittel 14: Valuta og valutamarked | 15 || 
 |14. april  |M2| **Frist** Innlevering andre mappeoppgave | 15 ||
-|4. mai       |F11|Kapittel 16: Økonomisk aktivitet i en åpen økonomi  | 18 ||
-|5. mai       |F12|Oppsumering |18 ||
+|4. mai       |F11|Kapittel 16: Økonomisk aktivitet i en åpen økonomi, informasjon om prosjektoppgave  | 18 ||
 |5. mai  |PO| Utdeling prosjektoppgave | 18 ||
 |19. mai  |PO| *Frist* innlevering prosjektoppgave | 20 ||
 
